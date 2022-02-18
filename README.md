@@ -20,6 +20,8 @@ after the program run every time you want to push just input you commit message 
 enter the command ```.auto``` for automatically push to github every 3min.
 ![timg screen](https://raw.githubusercontent.com/Ra-Wo/AutoPush/main/imgs/Screen%20Shot%202022-02-18%20at%204.11.47%20PM.png)
 
+#### NOTE:
+add the name of AutoPush folder to your ```.gitignore``` file to avoid publish it with your project.
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
