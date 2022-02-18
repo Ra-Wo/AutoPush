@@ -22,4 +22,4 @@ enter the command ```.auto``` for automatically push to github every 3min.
 
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]
-[forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
