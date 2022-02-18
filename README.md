@@ -13,7 +13,7 @@ npm start
 ```
 
 ### How to use: 
-after the program run every time you want to push just input you commit message and press enter.
+after the program runs every time you want to push just input you commit message and press enter.
 ![img screen](https://raw.githubusercontent.com/Ra-Wo/AutoPush/main/imgs/Screen%20Shot%202022-02-18%20at%204.09.38%20PM.png)
 
 ### Automatically push
