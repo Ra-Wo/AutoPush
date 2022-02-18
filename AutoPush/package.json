@@ -1,0 +1,15 @@
+{
+  "name": "autosync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SyncWithGithub.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Rachid Oudouch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
