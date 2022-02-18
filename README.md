@@ -15,5 +15,5 @@ npm start
 ### How to use: 
 after the program run every time you want to push just input you commit message and press enter.
 
-### auto push 
+### Automatically push
 enter the command ```.auto``` for automatically push to github every 3min.
